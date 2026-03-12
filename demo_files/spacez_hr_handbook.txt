@@ -1,0 +1,82 @@
+SPACE Z - HR POLICIES & EMPLOYEE HANDBOOK SUMMARY
+==================================================
+Last Updated: January 2026
+Document Owner: People Operations Team
+
+EMPLOYMENT TYPES
+----------------
+Full-Time: Standard 40-hour work week. Eligible for all benefits.
+Part-Time: Less than 30 hours/week. Eligible for limited benefits.
+Contract: Project-based engagement. Not eligible for standard benefits.
+Intern: 12 or 24-week rotational programs. Stipend + housing allowance provided.
+
+COMPENSATION & BENEFITS
+------------------------
+- Base salary reviewed annually every April
+- Performance bonuses paid in October (up to 20% of annual salary)
+- Equity grants (RSUs) issued to all full-time employees at hire; 4-year vesting schedule with 1-year cliff
+- Health Insurance: Medical, Dental, Vision covered at 90% for employee, 70% for dependents
+- 401(k) with 5% company match (vesting immediate)
+- Life insurance: 2x annual salary
+- Mental health benefit: $1,500/year for therapy or wellness services
+- Gym/fitness reimbursement: $600/year
+
+PAID TIME OFF
+-------------
+- Vacation: 15 days/year (Years 1-3), 20 days/year (Years 4+)
+- Sick Leave: 10 days/year, non-rollover
+- Personal Days: 3 days/year
+- Holidays: 12 federal holidays observed
+- Parental Leave: 16 weeks fully paid (primary caregiver), 6 weeks (secondary caregiver)
+- Bereavement: 5 days for immediate family, 3 days for extended family
+
+REMOTE & HYBRID WORK POLICY
+-----------------------------
+- Engineering, Operations, and Mission Control roles: On-site required 5 days/week
+- Product, Design, Finance, HR: Hybrid (3 days on-site minimum)
+- Sales, Marketing, Partnerships: Flexible remote with monthly team anchor weeks
+- All employees must be available during core hours: 10:00 AM – 3:00 PM local HQ time
+
+PERFORMANCE MANAGEMENT
+-----------------------
+- Reviews: Mid-year (June) and Annual (December)
+- Performance rated on 5-point scale: Exceptional / Strong / Meets Expectations / Developing / Unsatisfactory
+- Two consecutive "Developing" ratings trigger a Performance Improvement Plan (PIP)
+- Promotions require manager nomination + HR panel review
+
+CODE OF CONDUCT
+---------------
+Space Z maintains a zero-tolerance policy for:
+  - Discrimination based on race, gender, age, religion, sexual orientation, or disability
+  - Workplace harassment (verbal, physical, or digital)
+  - Conflict of interest without prior written disclosure
+  - Unauthorized sharing of confidential or proprietary information
+
+Violations should be reported to hr@spacez.com or via the anonymous ethics hotline: 1-800-SZ-ETHIC
+
+LEARNING & DEVELOPMENT
+-----------------------
+- Annual L&D budget per employee: $2,000
+- Access to internal Space Z Academy (online courses, workshops, certifications)
+- Leadership development cohort (applications open every Q1)
+- Conference attendance: Approved by manager; costs covered by department budget
+
+ONBOARDING
+-----------
+- All new hires complete a 4-week onboarding program
+- Includes: safety certifications, security clearance (if applicable), systems access setup, buddy program assignment
+- New hires receive a Space Z welcome kit and $500 home office stipend
+
+IT & SECURITY
+-------------
+- All devices must use Space Z-approved VPN when accessing internal systems remotely
+- Passwords must be 14+ characters and rotated every 90 days
+- MFA required on all accounts
+- Personal devices may not connect to internal Space Z networks without IT approval
+
+CONTACT - PEOPLE OPERATIONS
+-----------------------------
+HR Director: Sandra Okonkwo
+Email: hr@spacez.com
+Phone: (512) 900-2200 ext. 1
+Location: HQ Austin, 3rd Floor, People Ops Suite

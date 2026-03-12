@@ -1,0 +1,26 @@
+Mission ID,Mission Name,Launch Date,Rocket,Launch Site,Payload Type,Payload Mass (kg),Orbit,Customer,Status,Booster Landing,Revenue (USD),Notes
+SZ-001,Pathfinder-1,2019-03-15,Falcon-Z Mk1,Cape Canaveral,Satellite,320,LEO,Space Z Internal,Success,No,N/A,First ever Space Z launch
+SZ-002,GovSat-Alpha,2019-08-22,Falcon-Z Mk1,Cape Canaveral,Government Satellite,980,GEO,US DoD,Success,No,42000000,Classified payload
+SZ-003,StarGrid-1A,2020-01-10,Falcon-Z Mk1,Cape Canaveral,Constellation Batch,2200,LEO,Space Z Internal,Success,Yes,N/A,First booster recovery
+SZ-004,ComNet-7,2020-05-30,Falcon-Z Mk2,Boca Chica,Commercial Satellite,1450,MEO,ComNet Global,Success,Yes,67000000,First Mk2 flight
+SZ-005,StarGrid-2A,2020-09-14,Falcon-Z Mk2,Cape Canaveral,Constellation Batch,2400,LEO,Space Z Internal,Success,Yes,N/A,60 satellites deployed
+SZ-006,ISS Resupply-1,2021-02-03,Falcon-Z Mk2,Cape Canaveral,Cargo,3100,ISS,NASA,Success,Yes,185000000,First NASA contract mission
+SZ-007,EuroEarth-3,2021-06-19,Falcon-Z Mk2,Cape Canaveral,Earth Observation,760,SSO,ESA,Success,Yes,54000000,Sun-synchronous orbit
+SZ-008,StarGrid-3B,2021-10-05,Falcon-Z Mk2,Boca Chica,Constellation Batch,2400,LEO,Space Z Internal,Partial Failure,No,N/A,22 of 60 satellites lost
+SZ-009,TouristCrew-1,2022-03-28,Falcon-Z Mk3,Cape Canaveral,Crewed,12000,LEO,Space Z Tourism,Success,Yes,220000000,4 passengers; 9-day mission
+SZ-010,GovSat-Beta,2022-07-11,Falcon-Z Mk3,Cape Canaveral,Government Satellite,2200,GEO,US Space Force,Success,Yes,95000000,Encrypted comms payload
+SZ-011,StarGrid-4A,2022-10-20,Falcon-Z Mk3,Boca Chica,Constellation Batch,3600,LEO,Space Z Internal,Success,Yes,N/A,120 satellites; new record
+SZ-012,ISS Resupply-2,2023-01-17,Falcon-Z Mk3,Cape Canaveral,Cargo,3400,ISS,NASA,Success,Yes,210000000,Included crew rotation
+SZ-013,IndiaEye-1,2023-04-09,Falcon-Z Mk3,Cape Canaveral,Earth Observation,890,SSO,ISRO,Success,Yes,61000000,Joint partnership mission
+SZ-014,TouristCrew-2,2023-08-22,Falcon-Z Mk3,Cape Canaveral,Crewed,12000,LEO,Space Z Tourism,Success,Yes,310000000,6 passengers; 14-day mission
+SZ-015,StarGrid-5C,2023-11-30,Falcon-Z Mk3,Boca Chica,Constellation Batch,3600,LEO,Space Z Internal,Success,Yes,N/A,200 satellites; constellation hits 3000
+SZ-016,HeliosTest-1,2024-02-14,Falcon-Z Mk3,Boca Chica,Technology Demo,450,LEO,Space Z Internal,Success,Yes,N/A,Helios engine test payload
+SZ-017,CommercialHub-1,2024-05-03,Falcon-Z Mk3,Cape Canaveral,Space Station Module,8700,LEO,Axiom Space,Success,Yes,430000000,Largest commercial payload to date
+SZ-018,StarGrid-6A,2024-08-16,Falcon-Z Mk3,Boca Chica,Constellation Batch,3600,LEO,Space Z Internal,Success,Yes,N/A,Total constellation: 4200 satellites
+SZ-019,MoonLogistics-1,2024-11-02,Ares Heavy Pathfinder,Boca Chica,Lunar Cargo,6200,TLI,ESA,Success,No,520000000,First lunar trajectory mission
+SZ-020,ISS Resupply-3,2025-01-28,Falcon-Z Mk3,Cape Canaveral,Cargo,3500,ISS,NASA,Success,Yes,230000000,Emergency medical supply included
+SZ-021,StarGrid-7B,2025-04-10,Falcon-Z Mk3,Boca Chica,Constellation Batch,3600,LEO,Space Z Internal,Success,Yes,N/A,Constellation hits 5000
+SZ-022,TouristCrew-3,2025-07-04,Falcon-Z Mk3,Cape Canaveral,Crewed,12000,LEO,Space Z Tourism,Success,Yes,410000000,8 passengers; first private spacewalk
+SZ-023,GovSat-Gamma,2025-09-19,Falcon-Z Mk3,Cape Canaveral,Government Satellite,3100,GEO,US DoD,Success,Yes,112000000,Classified
+SZ-024,StarGrid-8A,2025-11-07,Falcon-Z Mk3,Boca Chica,Constellation Batch,3600,LEO,Space Z Internal,Success,Yes,N/A,StarGrid Gen2 first batch
+SZ-025,AresHeavy-Demo,2026-01-22,Ares Heavy,Boca Chica,Technology Demo,0,LEO,Space Z Internal,Success,Yes,N/A,Full Ares Heavy test flight; 120-ton capacity confirmed

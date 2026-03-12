@@ -1,0 +1,55 @@
+SPACE Z - COMPANY OVERVIEW
+==========================
+
+Company Name: Space Z Inc.
+Founded: 2018
+Headquarters: Austin, Texas, USA
+CEO: Marcus Hale
+CFO: Priya Nandakumar
+CTO: Dmitri Volkov
+Total Employees: 3,400
+Industry: Aerospace & Commercial Space Technology
+
+MISSION STATEMENT
+-----------------
+Space Z exists to make interplanetary travel accessible, affordable, and sustainable for all of humanity. We believe the future of civilization depends on becoming a multi-planetary species, and we are building the infrastructure to make that future possible within a generation.
+
+CORE DIVISIONS
+--------------
+1. Launch Services – Orbital and suborbital payload delivery for government and commercial clients
+2. Satellite Network (StarGrid) – Low Earth Orbit broadband constellation providing global internet coverage
+3. Crewed Missions – Human spaceflight programs including orbital tourism and ISS resupply contracts
+4. Propulsion R&D – Next-generation engine development (Helios Engine Series)
+5. Space Habitats – Modular orbital station design and manufacturing
+
+KEY ACHIEVEMENTS
+----------------
+- 2019: First successful launch of Falcon-Z Mk1 rocket
+- 2020: Achieved first booster landing and reuse
+- 2021: Awarded NASA Commercial Crew Transportation contract worth $1.8B
+- 2022: StarGrid Beta launched with 420 satellites in LEO
+- 2023: First crewed orbital tourism mission (4 passengers, 9-day mission)
+- 2024: Helios Engine prototype achieved 320 seconds of specific impulse in testing
+- 2025: StarGrid reached 5,200 active satellites; 1.2 million subscribers globally
+
+CURRENT PROJECTS
+----------------
+- Ares Heavy: Super-heavy lift vehicle targeting 150-ton LEO payload capacity (launch planned Q3 2026)
+- MoonBase Alpha (Phase 1): Lunar surface logistics contract with ESA
+- StarGrid Gen2: Next-gen satellites with laser inter-link communication
+- Project Hermes: Reusable upper stage for deep space missions
+
+OFFICE LOCATIONS
+----------------
+- Austin, TX (HQ + Mission Control)
+- Cape Canaveral, FL (Launch Site Alpha)
+- Boca Chica, TX (Ares Heavy development facility)
+- Bangalore, India (StarGrid engineering hub)
+- Munich, Germany (European operations)
+
+CONTACT
+-------
+General Inquiries: info@spacez.com
+Press: media@spacez.com
+Careers: jobs@spacez.com
+Website: www.spacez.com
