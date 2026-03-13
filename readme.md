@@ -9,6 +9,8 @@
 
 > **Zeta** is an intelligent company knowledge assistant that lets teams query their internal documents and data using plain English — no SQL, no search bars, no manual digging.
 
+>[![Live Demo](https://glassz13-zeta-ai.hf.space) 
+
 ---
 
 ## What is Zeta?
